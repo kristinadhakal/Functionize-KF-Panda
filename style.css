@@ -1,0 +1,50 @@
+body {
+  background: url('img/kungfupandabackground.jpg') center no-repeat fixed;
+  background-size: cover;
+  text-align: center;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  margin: 75px 0;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 600px;
+  padding-top: 30px;
+  margin: 25px auto;
+  border-radius: 10px;
+}
+
+.bio {
+  background-color: rgba(72, 116, 63, 0.7);
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#quote {
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
+.search-nav {
+  padding: 10px 0;
+}
+
+#search {
+  padding: 5px 15px;
+  background-color: #48743f;
+  color: white;
+}
+
+input {
+  height: 20px;
+}
+
+h1,
+h2 {
+  font-family: Papyrus, fantasy;
+}
